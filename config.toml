@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "*\"It's about understanding! Understanding the universe!\"* \n -- [Peter Higgs](https://www.theguardian.com/science/2007/nov/17/sciencenews.particlephysics)"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -18,24 +18,29 @@ googleAnalytics = ""
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-    url = "http://staff.ustc.edu.cn/~xll/test/public/"
+    url = "/"
     name = "Home"
     weight = 1
 
 [[menu.main]]
-    url = "http://staff.ustc.edu.cn/~xll/test/public/about/"
+    url = "/about/"
     name = "About"
     weight = 2
 
 [[menu.main]]
-    url = "http://staff.ustc.edu.cn/~xll/test/public/post/"
-    name = "Posts"
+    url = "/research/"
+    name = "Research"
     weight = 3
 
 [[menu.main]]
-    url = "http://staff.ustc.edu.cn/~xll/test/public/project/"
-    name = "Projects"
+    url = "/teaching/"
+    name = "Teaching"
     weight = 4
+
+[[menu.main]]
+    url = "/group/"
+    name = "Group"
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.

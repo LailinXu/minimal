@@ -1,11 +1,45 @@
 ---
-title: About
-description: What is Hugo?
+title: Lailin Xu (徐来林)
+description: USTC, Department of Modern Physics, lailinxu at ustc.edu.cn
 ---
 
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+[*Full CV*](CV_lailin_2020_short.pdf)
 
-Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+## Professional Experience
 
-We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+* 2021-Present Assistant Professor (特任教授), University of Sci. and Tech. of China (USTC),Hefei, China
+* 2015-2020    Postdoctoral Research Associate, Brookhaven National Lab, Upton, NY, USA (stationed at CERN working on the ATLAS experiment)
+* 2011-2013    Visiting Research Investigator, University of Michigan, Ann Arbor, MI, USA
+* 2010-2015    Research Assistant, USTC, Hefei, China
+
+## Education
+
+* 2010-2015    Ph.D. in Physics, USTC
+   * Thesis: [Study of Electroweak and Higgs Physics with ZZ Production in ATLAS.](http://inspirehep.net/record/1381319/)
+   * Advisor: Bing Zhou (UMich), Zhengguo Zhao (USTC)
+* 2006-2010    B.Sc in Physics, USTC
+   * Thesis:  R&D of Long-strip Multi-gap Resistive Plate Chambers as a Time-Of-Flight detector
+
+## Research Interests
+
+* ATLAS experiments
+   * Higgs properties measurements
+   * Electroweak precision measurements (diboson and vector boson scattering)
+   * Search for new physics beyond the SM (Dark matter)
+* Silicon detector R&D
+
+## Selected Research Experience
+
+* 2019-Present Convener of Weak Boson Processes Subgroup, ATLAS Physics Modeling Group, Coordinating all aspects of Monte Carlo modelling of Single-boson and Multiboson processes in the whole ATLAS collaboration
+* 2019-Present Convener of [Off-shell and Interference Subgroup](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/LHCHXSWGOFFSHELL), LHC Higgs Cross Section Working Group}, stimulate and facilitate experimental and theoretical efforts on off-shell Higgs and signal-background interference studies at the LHC
+* 2018-2019 Coordinator of ATLAS Physics Modeling Group--Multiboson Focus Group
+* 2016-Present Co-leader of several key physics analyses in ATLAS, using multiple gauge bosons to search for new phenomena and measure the Higgs boson properties
+* 2009-Present Extensive experience on R&D of novel silicon detectors and gaseous detectors, including development of data acquisition system and characterization of detectors using testbeam
+
+## Selected Publications
+
+* ATLAS Collaboration, Search for heavy resonances decaying into a pair of Z bosons in the lllland llvv final states using 139 fb<sup>−1</sup> of proton-proton collisions at 13 TeV with the ATLAS detector, [submitted to EPJC](https://arxiv.org/abs/2009.14791)
+* ATLAS Collaboration, Search for heavy diboson resonances in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Eur. Phys. J. C 80 (2020) 1165](https://doi.org/10.1140/epjc/s10052-020-08554-y)
+* ATLAS Collaboration, Search for the electroweak diboson production in association with a high-mass dijet system in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Phys. Rev. D. 100, 032007 (2019)](https://doi.org/10.1103/PhysRevD.100.032007)
+* ATLAS Collaboration, Constraints on off-shell Higgs boson production and the Higgs boson total width in ZZ->4l and ZZ->2l2v final states with the ATLAS detector，[Phys. Lett. B 786 (2018) 223](https://doi.org/10.1016/j.physletb.2018.09.048)
+* ATLAS Collaboration, Search for Invisible Decays of a Higgs Boson Produced in Association with a Z Boson in ATLAS, [Phys. Rev. Lett. 112, 201802 (2014)](https://doi.org/10.1103/PhysRevLett.112.201802)
