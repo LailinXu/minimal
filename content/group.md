@@ -9,6 +9,9 @@ description: USTC ATLAS, Lailin Xu
 
 ## My group
 
+*Positions for postdocs, graduate students and undergraduate students are available! [Contact me!](http://staff.ustc.edu.cn/~xll/contact/)*
+
+### Current members
 * Postdocs
    * Mario Jose Susa
 

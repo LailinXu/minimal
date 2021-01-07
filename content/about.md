@@ -38,6 +38,8 @@ description: USTC, Department of Modern Physics, lailinxu at ustc.edu.cn
 
 ## Selected Publications
 
+*Full list of publications at [Inspire-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lai.Lin.Xu.1)*
+
 * ATLAS Collaboration, Search for heavy resonances decaying into a pair of Z bosons in the lllland llvv final states using 139 fb<sup>−1</sup> of proton-proton collisions at 13 TeV with the ATLAS detector, [submitted to EPJC](https://arxiv.org/abs/2009.14791)
 * ATLAS Collaboration, Search for heavy diboson resonances in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Eur. Phys. J. C 80 (2020) 1165](https://doi.org/10.1140/epjc/s10052-020-08554-y)
 * ATLAS Collaboration, Search for the electroweak diboson production in association with a high-mass dijet system in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Phys. Rev. D. 100, 032007 (2019)](https://doi.org/10.1103/PhysRevD.100.032007)
