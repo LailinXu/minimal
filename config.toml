@@ -1,4 +1,4 @@
-baseURL = "http://staff.ustc.edu.cn/~xll/test/public/"
+baseURL = "http://staff.ustc.edu.cn/~xll/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
