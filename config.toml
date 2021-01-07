@@ -42,31 +42,31 @@ googleAnalytics = ""
     name = "Group"
     weight = 5
 
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 6
+
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:lailinxu@ustc.edu.cn"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
-    name = "fab fa-github"
+    url = "https://gitlab.cern.ch/lxu/"
+    name = "fab fa-gitlab"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "fab fa-twitter"
+    url = "https://github.com/LailinXu/"
+    name = "fab fa-github"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "fab fa-linkedin"
+    url = "https://twitter.com/neutrinoustc/"
+    name = "fab fa-twitter"
     weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
-    weight = 5
