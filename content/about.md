@@ -7,8 +7,8 @@ description: USTC, Department of Modern Physics, lailinxu at ustc.edu.cn
 
 ## Professional Experience
 
-* 2021-Present Assistant Professor (特任教授), University of Sci. and Tech. of China (USTC),Hefei, China
-* 2015-2020    Postdoctoral Research Associate, Brookhaven National Lab, Upton, NY, USA (stationed at CERN working on the ATLAS experiment)
+* 2021-Present Assistant Professor (特任教授), University of Sci. and Tech. of China (USTC), Hefei, China
+* 2015-2020    Postdoctoral Research Associate, Brookhaven National Lab, Upton, NY, USA (stationed at [CERN](https://home.cern/) working on the [ATLAS experiment](https://atlas.cern/))
 * 2011-2013    Visiting Research Investigator, University of Michigan, Ann Arbor, MI, USA
 * 2010-2015    Research Assistant, USTC, Hefei, China
 
@@ -23,10 +23,12 @@ description: USTC, Department of Modern Physics, lailinxu at ustc.edu.cn
 ## Research Interests
 
 * ATLAS experiments
-   * Higgs properties measurements
+   * Higgs boson properties measurements
    * Electroweak precision measurements (diboson and vector boson scattering)
-   * Search for new physics beyond the SM (Dark matter)
+   * Search for new physics beyond the SM (eg. Dark matter) using gauge bosons
 * Silicon detector R&D
+   * Timing detectors (LGAD)
+   * CMOS pixel detectors
 
 ## Selected Research Experience
 
