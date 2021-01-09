@@ -95,7 +95,8 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
+    /*font-size: 150%;*/
+    font-size: 3vmin;
     display: inline-block !important;
 }
 

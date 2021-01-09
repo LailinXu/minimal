@@ -13,6 +13,9 @@ googleAnalytics = ""
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
+    # Choose a font size.
+    # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+    font_size = "L"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
