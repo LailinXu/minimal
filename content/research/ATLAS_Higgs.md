@@ -50,8 +50,23 @@ On the other hand, the SM is not complete in itself as it fails to explain many 
 -->
 ![image info](Higgs_SFTC.jpeg)
 
+## Overview
+Dr. Xu is particularly interested in precision measurements of the Higgs boson properties and couplings, to probe the nature of the EWSB, and in searches for new physics beyond the SM using the Higgs portal.
+He has been studying the nature of the Higgs boson since LHC Run-I, using the ZZ diboson channel with ZZ->4l and ZZ->2l2v final states. He made major contribution to determine the spin and parity of the Higgs boson in H->4l since its discovery, a crucial experimental measurement to confirm the new particle is consistent with the SM Higgs boson. He also made leading contribution to measure of the off-shell Higgs coupling and the total width of the Higgs boson. Dr. Xu made major contribution to the first search for Higgs-portal dark matter via invisible decays of the Higgs boson. 
+
 ## Off-shell Higgs and total width measurements
+It is known that the Higgs boson has a mass of 125 GeV. How wide is the Higgs boson? According to the SM prediction, at mH=125 GeV, it has a width of about 4MeV, more than 3 orders of magnitude smaller than its mass, or even compared to the measurement resolution of the ATLAS detector.
+It is therefore natural to assume a narrow width when measureing the properties of the Higgs boson using Higgs events around the on-shell mass peak.
+But in reality, [the Higgs boson has a long shadow](https://atlas.cern/updates/briefing/higgs-boson-s-shadow), leading to substantial event rate in the high-mass region involving two on-shell W or Z bosons.
+Another interesting feature is that, while the amount of Higgs-boson signal observed on the 125 GeV peak (“on-shell”) depends on the Higgs-boson width, the far off-shell signal is independent of it. A comparison between the on-shell and off-shell rates therefore allows, under specific model assumptions, to extract information on the Higgs-boson width. This novel technique enables us to measure the Higgs boson couplings in the high-energy scale, and to constrain its total width with much higher precision than that of direct Higgs with measurements.
+
+* Higgs boson off-shell coupling measurements and constraints on the Higgs total width in H->ZZ channel at 13 TeV, [PLB 786 (2018) 223](https://doi.org/10.1016/j.physletb.2018.09.048).
+* Higgs off-shell coupling measurements and constraints on the Higgs total width at 8 TeV, [EPJC (2015) 75:335](https://doi.org/10.1140/epjc/s10052-015-3542-2).
 
 ## Higgs spin and CP measurements
 
+* Study of the spin and parity of the Higgs boson in diboson decays with the ATLAS detector, [Eur. Phys. J. C75 (2015) 476](https://doi.org/10.1140/epjc/s10052-015-3685-1)
+
 ## Probing new physics via the Higgs portal
+
+* Search for Invisible Decays of a Higgs Boson Produced in Association with a Z Boson in ATLAS, [Phys. Rev. Lett. 112, 201802 (2014)](https://doi.org/10.1103/PhysRevLett.112.201802)
