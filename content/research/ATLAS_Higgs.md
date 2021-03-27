@@ -77,6 +77,13 @@ Another interesting feature is that, while the amount of Higgs-boson signal obse
 * Higgs boson off-shell coupling measurements and constraints on the Higgs total width in H->ZZ channel at 13 TeV, [PLB 786 (2018) 223](https://doi.org/10.1016/j.physletb.2018.09.048).
 * Higgs off-shell coupling measurements and constraints on the Higgs total width at 8 TeV, [EPJC (2015) 75:335](https://doi.org/10.1140/epjc/s10052-015-3542-2).
 
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2017-06/fig_01b.png>
+<img style="float: left;" height=400; src="HZZoffshell_HIGG-2017-06_MELA.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2017-06/fig_03b.png>
+<img height=400; src="HZZoffshell_HIGG-2017-06_Width.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+
 ## Higgs spin and CP measurements
 
 * Study of the spin and parity of the Higgs boson in diboson decays with the ATLAS detector, [Eur. Phys. J. C75 (2015) 476](https://doi.org/10.1140/epjc/s10052-015-3685-1)
@@ -84,3 +91,7 @@ Another interesting feature is that, while the amount of Higgs-boson signal obse
 ## Probing new physics via the Higgs portal
 
 * Search for Invisible Decays of a Higgs Boson Produced in Association with a Z Boson in ATLAS, [Phys. Rev. Lett. 112, 201802 (2014)](https://doi.org/10.1103/PhysRevLett.112.201802)
+
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2013-03/fig_04.png>
+<img height=400; src="Zhinv_HIGG_2013-03_DM.png"; style="vertical-align:middle;margin:0px 20px">
+</a>

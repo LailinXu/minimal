@@ -25,6 +25,14 @@ This paradigm has motivated in the last decades a huge experimental effort for t
 
 ## Search for heavy resonances
 
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2018-10/fig_13a.png>
+<img style="float: left;" height=350; src="VVres_HDBS-2018-10_DY_W.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2018-10/fig_13b.png>
+<img height=350; src="VVres_HDBS-2018-10_DY_W.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+
+
 * Search for heavy resonances decaying into a pair of Z bosons in the 4l and llvv final states using 139 fb−1 of proton-proton collisions at 13 TeV with the ATLAS detector, [arXiv:2009.14791](https://arxiv.org/abs/2009.14791)
 * Search for heavy diboson resonances in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Eur. Phys. J. C 80 (2020) 1165](https://doi.org/10.1007/JHEP10(2020)061)
 * Combination of searches for heavy resonances decaying into bosonic and leptonic final states using 36 fb−1 of proton-proton collision data at 13TeV with the ATLAS detector, [Phys. Rev. D 98, 052008 (2018)](https://doi.org/10.1103/PhysRevD.98.052008)
