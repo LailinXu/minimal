@@ -5,6 +5,11 @@ theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     author = "Calin Tataru"
     description = "*\"It's about understanding! Understanding the universe!\"* \n -- [Peter Higgs](https://www.theguardian.com/science/2007/nov/17/sciencenews.particlephysics)"
