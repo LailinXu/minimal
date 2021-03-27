@@ -3,7 +3,7 @@ title: Lailin Xu (徐来林)
 description: USTC, Department of Modern Physics, lailinxu at ustc.edu.cn
 ---
 
-[*Full CV*](CV_lailin_2020_short.pdf)
+[*Full CV*](CV_lailin_2020_short.pdf), [中文主页](http://pnp.ustc.edu.cn/html/proinfo.php?id=36)
 
 ## Professional Experience
 

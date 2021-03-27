@@ -16,6 +16,14 @@ With the discovery of a Higgs boson, they have remained interesting as a way to 
 
 ## Diboson production
 
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2018-30/fig_04.png>
+<img style="float: left;" height=400; src="4l_STDM-2018-30_m4l.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2018-30/fig_11b.png>
+<img height=400; src="4l_STDM-2018-30_EFT.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+
+
 * Measurements of $W^+W^-+\ge 1$ jet production cross-sections in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector, [arXiv:2103.10319](https://arxiv.org/abs/2103.10319)
 * Measurements of differential cross-sections in four-lepton events in 13 TeV proton-proton collisions with the ATLAS detector, [arXiv:2103.01918](https://arxiv.org/abs/2103.01918)
 * Measurement of the four-lepton invariant mass spectrum in 13 TeV proton-proton collisions with the ATLAS detector, [JHEP04(2019)048](https://doi.org/10.1007/JHEP04(2019)048)
@@ -28,3 +36,12 @@ With the discovery of a Higgs boson, they have remained interesting as a way to 
 
 * Search for electroweak diboson production in association with a high-mass dijet system in semileptonic final states in pp collisions at 13 TeV with the ATLAS detector, [Phys. Rev. D 100, 032007](https://doi.org/10.1103/PhysRevD.100.032007)
 * Evidence for Electroweak Production of W±W±jj in pp Collisions at 8 TeV with the ATLAS Detector, [Phys.Rev.Lett. 113 (2014) 14, 141803](https://doi.org/10.1103/PhysRevLett.113.141803)
+
+
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2017-20/figaux_01.png>
+<img style="float: left;" height=400; src="VBSVVsemi_STDM-2017-20_SB.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+<a href=https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2017-20/fig_07.png>
+<img height=400; src="VBSVVsemi_STDM-2017-20_mu.png"; style="vertical-align:middle;margin:0px 20px">
+</a>
+
