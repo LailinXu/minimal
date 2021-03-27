@@ -10,6 +10,14 @@
 
     <div align="start" class="content">{{ .Content }}</div>
 
+    <!-- page view counts -->
+    <div class="views">
+      <span class="views">
+          <img src="https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}" alt="Views"/>
+      </span>
+    </div>
+
+
 </main>
 
 {{ partial "footer" . }}
