@@ -43,7 +43,7 @@ img {
 
 .content {
     padding-top: 20px;
-    font-size: 3vmin;
+    font-size: 2.5vmin;  /* !!! to adjust font size of the main conent */
 }
 
 /* Profile picture */
@@ -99,7 +99,8 @@ a:hover {
 
 .navbar-icon {
     /*font-size: 150%;*/
-    font-size: 3vmin;
+    font-size: 2.5vmin;
+    font-weight: bold;
     display: inline-block !important;
 }
 
