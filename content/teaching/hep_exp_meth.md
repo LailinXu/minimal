@@ -15,6 +15,7 @@ This course is aimed for graduate students or senior undergraduates, who have ta
 * Monte Carlo calculations
 * Pattern recognition
 * Track fitting
+
 with emphasis on hands-on exercise.
 
 ## 2021 Spring
